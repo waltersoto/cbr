@@ -10,5 +10,6 @@ namespace HeapStack.Core.CBR {
 
         public string Name { set; get; }
         public IList<IComicPage> Pages { set; get; }
+
     }
 }

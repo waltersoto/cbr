@@ -5,9 +5,9 @@ namespace HeapStack.Core.CBR.Models {
 
         IComicBook Read(string filename);
 
-        IComicBook Read(Stream filename);
+        IComicBook Read(Stream fileStream, string filename);
 
-        IComicBook Read(byte[] filename);
+        IComicBook Read(byte[] fileData, string filename);
 
     }
 }
