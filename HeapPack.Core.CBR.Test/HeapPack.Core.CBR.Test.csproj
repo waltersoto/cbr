@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\HeapPack.Core.CBR\HeapStack.Core.CBR\HeapPack.Core.CBR.csproj" />
+    <ProjectReference Include="..\HeapPack.Core.CBR\HeapPack.Core.CBR.csproj" />
   </ItemGroup>
 
   <ItemGroup>

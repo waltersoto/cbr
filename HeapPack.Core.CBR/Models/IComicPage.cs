@@ -3,7 +3,7 @@
 
         byte[] Data { set; get; }
         int Number { set; get; }
-        public string Filename { set; get; }
+        string Filename { set; get; }
 
     }
 }
