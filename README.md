@@ -1,7 +1,7 @@
 # CBR 0.1
 CBR reader library for .NET Core
 
-Open and navigate a digital comic book archive in CBR format.
+Open and navigate a digital comic book archive in .CBR and .CBZ formats.
 
 Example:
 
